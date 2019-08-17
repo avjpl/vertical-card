@@ -1,0 +1,17 @@
+.horizontal {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  box-shadow: 0 0 7px 0 rgba(0,0,0,.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.horizontal__aside {
+  display: flex;
+}
+
+.horizontal__main {
+  display: flex;
+}

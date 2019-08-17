@@ -1,0 +1,9 @@
+.ratings {
+  align-self: center;
+  margin-bottom: 10px;
+  margin-top: 5px;
+}
+
+.star {
+  width: 30px;
+}

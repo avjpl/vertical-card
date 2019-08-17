@@ -1,0 +1,37 @@
+.primary {
+  background: #00838f;
+  color: white;
+  border: none;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  letter-spacing: .3px;
+  font-size: 1rem;
+}
+
+.primary:hover {
+  background: #005662;
+}
+
+.secondary {
+  background: #263238;
+  color: white;
+  border: none;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  letter-spacing: .3px;
+  font-size: 1rem;
+}
+
+.secondary:hover {
+  background: #000a12;
+}
+
+button {
+  border-radius: 4px;
+}
+
+button:last-child {
+  margin-bottom: 0;
+}
